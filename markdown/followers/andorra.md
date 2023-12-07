@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/12/7 3:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/12/7 12:18 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/Masaku12/top-github-users).
 
@@ -1472,12 +1472,12 @@ There are `312 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/lib2know">
-				<img src="https://avatars.githubusercontent.com/u/9082033?s=72&v=4" width="24" alt="Avatar of lib2know"> lib2know
+			<a href="https://github.com/rocduran">
+				<img src="https://avatars.githubusercontent.com/u/10318153?s=72&v=4" width="24" alt="Avatar of rocduran"> rocduran
 			</a><br/>
-			No Name
+			Roc Duran Martinez
 		</td>
-		<td>No Company</td>
+		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
@@ -1485,12 +1485,12 @@ There are `312 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>107</td>
 		<td>
-			<a href="https://github.com/rocduran">
-				<img src="https://avatars.githubusercontent.com/u/10318153?s=72&v=4" width="24" alt="Avatar of rocduran"> rocduran
+			<a href="https://github.com/lib2know">
+				<img src="https://avatars.githubusercontent.com/u/9082033?s=72&v=4" width="24" alt="Avatar of lib2know"> lib2know
 			</a><br/>
-			Roc Duran Martinez
+			No Name
 		</td>
-		<td>Student </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
@@ -1875,19 +1875,6 @@ There are `312 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>137</td>
 		<td>
-			<a href="https://github.com/mricartx">
-				<img src="https://avatars.githubusercontent.com/u/26459972?s=72&v=4" width="24" alt="Avatar of mricartx"> mricartx
-			</a><br/>
-			Marc Ricart
-		</td>
-		<td>Andorra Telecom </td>
-		<td>No Twitter Username</td>
-		<td>ANDORRA</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
 			<a href="https://github.com/alipsia">
 				<img src="https://avatars.githubusercontent.com/u/4753862?s=72&v=4" width="24" alt="Avatar of alipsia"> alipsia
 			</a><br/>
@@ -1896,6 +1883,19 @@ There are `312 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
+			<a href="https://github.com/mricartx">
+				<img src="https://avatars.githubusercontent.com/u/26459972?s=72&v=4" width="24" alt="Avatar of mricartx"> mricartx
+			</a><br/>
+			Marc Ricart
+		</td>
+		<td>Andorra Telecom </td>
+		<td>No Twitter Username</td>
+		<td>ANDORRA</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1953,10 +1953,10 @@ There are `312 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>143</td>
 		<td>
-			<a href="https://github.com/FabioIndustries">
-				<img src="https://avatars.githubusercontent.com/u/77511365?s=72&u=19bf0cd591f6f0b569cd7cd1333452b6b5f1665a&v=4" width="24" alt="Avatar of FabioIndustries"> FabioIndustries
+			<a href="https://github.com/lomie107">
+				<img src="https://avatars.githubusercontent.com/u/74588937?s=72&v=4" width="24" alt="Avatar of lomie107"> lomie107
 			</a><br/>
-			Fabio
+			Loes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1966,10 +1966,10 @@ There are `312 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/lomie107">
-				<img src="https://avatars.githubusercontent.com/u/74588937?s=72&v=4" width="24" alt="Avatar of lomie107"> lomie107
+			<a href="https://github.com/FabioIndustries">
+				<img src="https://avatars.githubusercontent.com/u/77511365?s=72&u=19bf0cd591f6f0b569cd7cd1333452b6b5f1665a&v=4" width="24" alt="Avatar of FabioIndustries"> FabioIndustries
 			</a><br/>
-			Loes
+			Fabio
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
