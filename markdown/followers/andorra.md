@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/12/19 9:09 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/12/20 6:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/Masaku12/top-github-users).
 
@@ -154,7 +154,7 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Maze </td>
 		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
 		<td>Andorra</td>
-		<td>146</td>
+		<td>147</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1017,19 +1017,6 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/bigskygroup">
-				<img src="https://avatars.githubusercontent.com/u/4953833?s=72&v=4" width="24" alt="Avatar of bigskygroup"> bigskygroup
-			</a><br/>
-			BigSky Group 
-		</td>
-		<td>Big Sky Grup Sau<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
 			<a href="https://github.com/apascualagut">
 				<img src="https://avatars.githubusercontent.com/u/34001956?s=72&u=126b77d79d3e158231bfe74a7636cf903c0032e4&v=4" width="24" alt="Avatar of apascualagut"> apascualagut
 			</a><br/>
@@ -1037,6 +1024,19 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>@handcash  </td>
 		<td><a href="https://twitter.com/apagut">apagut</a></td>
+		<td>Andorra</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/bigskygroup">
+				<img src="https://avatars.githubusercontent.com/u/4953833?s=72&v=4" width="24" alt="Avatar of bigskygroup"> bigskygroup
+			</a><br/>
+			BigSky Group 
+		</td>
+		<td>Big Sky Grup Sau<br/></td>
+		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>6</td>
 	</tr>
@@ -1212,19 +1212,6 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>86</td>
 		<td>
-			<a href="https://github.com/kolyden">
-				<img src="https://avatars.githubusercontent.com/u/6959057?s=72&u=972c60f89136faf7ec78282bd9a51de71c32d474&v=4" width="24" alt="Avatar of kolyden"> kolyden
-			</a><br/>
-			Denis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kolyden">kolyden</a></td>
-		<td>Andorra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
 			<a href="https://github.com/jcerdan">
 				<img src="https://avatars.githubusercontent.com/u/532007?s=72&v=4" width="24" alt="Avatar of jcerdan"> jcerdan
 			</a><br/>
@@ -1232,6 +1219,19 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>Tecob </td>
 		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
+			<a href="https://github.com/kolyden">
+				<img src="https://avatars.githubusercontent.com/u/6959057?s=72&u=972c60f89136faf7ec78282bd9a51de71c32d474&v=4" width="24" alt="Avatar of kolyden"> kolyden
+			</a><br/>
+			Denis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kolyden">kolyden</a></td>
 		<td>Andorra</td>
 		<td>3</td>
 	</tr>
@@ -1836,10 +1836,10 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>134</td>
 		<td>
-			<a href="https://github.com/agasnikov">
-				<img src="https://avatars.githubusercontent.com/u/7144769?s=72&u=65f171c7691e82a095b0ecafa9b420898dff6abb&v=4" width="24" alt="Avatar of agasnikov"> agasnikov
+			<a href="https://github.com/yonimnemonic">
+				<img src="https://avatars.githubusercontent.com/u/12298432?s=72&u=c49ae041edb3cca6a0b3c05306103c64782bc4a2&v=4" width="24" alt="Avatar of yonimnemonic"> yonimnemonic
 			</a><br/>
-			Alexander Gasnikov
+			yonimnemonic
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1849,10 +1849,10 @@ There are `313 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>135</td>
 		<td>
-			<a href="https://github.com/yonimnemonic">
-				<img src="https://avatars.githubusercontent.com/u/12298432?s=72&u=c49ae041edb3cca6a0b3c05306103c64782bc4a2&v=4" width="24" alt="Avatar of yonimnemonic"> yonimnemonic
+			<a href="https://github.com/agasnikov">
+				<img src="https://avatars.githubusercontent.com/u/7144769?s=72&u=65f171c7691e82a095b0ecafa9b420898dff6abb&v=4" width="24" alt="Avatar of agasnikov"> agasnikov
 			</a><br/>
-			yonimnemonic
+			Alexander Gasnikov
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
