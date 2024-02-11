@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2024/2/10 6:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2024/2/11 3:11 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/Masaku12/top-github-users).
 
@@ -245,7 +245,7 @@ There are `322 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Iand </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>360</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -362,7 +362,7 @@ There are `322 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vilanova i la Geltrú (Barcelona) | Encamp (Andorra)</td>
-		<td>225</td>
+		<td>226</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -882,7 +882,7 @@ There are `322 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>22</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1836,10 +1836,10 @@ There are `322 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>134</td>
 		<td>
-			<a href="https://github.com/ShiroMakoo">
-				<img src="https://avatars.githubusercontent.com/u/159023169?s=72&u=3d500e7065597df58a034b6b39b806a4ec638047&v=4" width="24" alt="Avatar of ShiroMakoo"> ShiroMakoo
+			<a href="https://github.com/jbernal87">
+				<img src="https://avatars.githubusercontent.com/u/11876329?s=72&u=067ed7b2f483b5c6940515cc4b26a2466fa1dcd2&v=4" width="24" alt="Avatar of jbernal87"> jbernal87
 			</a><br/>
-			Shiro Makoo
+			Jose Luis Bernal Castillo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1849,10 +1849,10 @@ There are `322 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>135</td>
 		<td>
-			<a href="https://github.com/jbernal87">
-				<img src="https://avatars.githubusercontent.com/u/11876329?s=72&u=067ed7b2f483b5c6940515cc4b26a2466fa1dcd2&v=4" width="24" alt="Avatar of jbernal87"> jbernal87
+			<a href="https://github.com/ShiroMakoo">
+				<img src="https://avatars.githubusercontent.com/u/159023169?s=72&u=3d500e7065597df58a034b6b39b806a4ec638047&v=4" width="24" alt="Avatar of ShiroMakoo"> ShiroMakoo
 			</a><br/>
-			Jose Luis Bernal Castillo
+			Shiro Makoo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
